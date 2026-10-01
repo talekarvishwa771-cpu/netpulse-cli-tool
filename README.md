@@ -14,7 +14,7 @@ A lightweight, dependency-free Python CLI tool for quick network diagnostics.
 No external dependencies are required. Just ensure you have Python 3 installed.
 
 ```bash
-git clone https://github.com/yourusername/netpulse.git
+git clone https://github.com/talekarvishwa771-cpu/netpulse.git
 cd netpulse
 ```
 
